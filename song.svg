@@ -3,7 +3,7 @@
               margin: 0;
               box-sizing: border-box;
             }
-          </style><p style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:18px;font-weight:600;line-height:1.5;white-space:pre" id="title"></p><div class="now-playing-wrapper"><div class="bar-container left"><div class="bar" style="--offset:0"></div><div class="bar" style="--offset:1"></div><div class="bar" style="--offset:2"></div></div><div class="" style="align-items:center;display:flex;background:rgb(40,40,40,.6);border:1px solid rgba(40, 40, 40, .3);border-radius:.3rem;margin:.5rem 0;padding:.6rem;padding-left:8px;padding-top:8px"><img id="cover" src="images/Cats1337.jpg" width="48" height="48" /><div style="color:#00c3ff;display:flex;flex:1;flex-direction:column;margin-left:8px;margin-top:-4px"><p style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;font-weight:600;line-height:1.5;white-space:pre" id="track">Bad Boy</p><p style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:12px;font-weight:400;line-height:1.5;white-space:pre" id="artist">bbno$, Yung Bae</p><div class="progress-bar"><div class="paused" id="progress"></div></div></div></div><div class="bar-container right"><div class="bar" style="--offset:0"></div><div class="bar" style="--offset:1"></div><div class="bar" style="--offset:2"></div></div></div><style>
+          </style><p style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:18px;font-weight:600;line-height:1.5;white-space:pre" id="title"></p><div class="now-playing-wrapper"><div class="bar-container left"><div class="bar" style="--offset:0"></div><div class="bar" style="--offset:1"></div><div class="bar" style="--offset:2"></div></div><div class="" style="align-items:center;display:flex;background:rgb(40,40,40,.6);border:1px solid rgba(40, 40, 40, .3);border-radius:.3rem;margin:.5rem 0;padding:.6rem;padding-left:8px;padding-top:8px"><img id="cover" src="images/Cats1337.jpg" width="48" height="48" /><div style="color:#00c3ff;display:flex;flex:1;flex-direction:column;margin-left:8px;margin-top:-4px"><p style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;font-weight:600;line-height:1.5;white-space:pre" id="track">Cats</p><p style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:12px;font-weight:400;line-height:1.5;white-space:pre" id="artist">Coding, Gaming, Sleeping</p><div class="progress-bar"><div class="paused" id="progress"></div></div></div></div><div class="bar-container right"><div class="bar" style="--offset:0"></div><div class="bar" style="--offset:1"></div><div class="bar" style="--offset:2"></div></div></div><style>
           .now-playing-wrapper {
             display: flex;
             justify-content: center;
@@ -19,7 +19,7 @@
             background: #FFF;
             border: 1px solid #e1e4e8;
             border-radius: 6px;
-            content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
+            content: images/Cats1337.jpg;
             mix-blend-mode: normal;
           }
           
@@ -29,6 +29,7 @@
           #cover,
           #title {
             animation: appear 300ms ease-out forwards;
+            img: images/Cats1337.jpg;
             opacity: 0;
           }
           
