@@ -14,7 +14,7 @@
   <tr>
     <td align="center" width="96">
       <code><a href="#macropower-tech">
-        <img src="images/python.svg" width="48" height="48" alt="Python" />
+        <img src="images/python.svg" width="48" height="48" alt="Python">
       </a></code>
       <br>Python
     </td>
