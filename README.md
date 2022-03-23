@@ -1,8 +1,11 @@
-<!--🐱CAT-->
+<!--CAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Cat Tippy Tappy" width="100">
 
-# 
+<!--LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+
+<img src="https://readme-typing-svg.herokuapp.com?center=true&multiline=true&width=275&height=55&lines=Cats+;Coding%2C+Gaming%2C+Vibing" alt="Typing" style="align: centered">
 
 <img src="song.svg" style ="align: centered">
 <img src="images/Cats1337.jpg" style="width: 48px; height: 48px">
@@ -10,12 +13,11 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
+      <code><a href="#macropower-tech">
+        <img src="images/python.svg" width="48" height="48" alt="Python" />
+      </a></code>
       <br>Python
     </td>
-    
 
   </tr>
   <tr>
