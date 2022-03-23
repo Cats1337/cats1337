@@ -16,6 +16,14 @@
       <a><code><img src="images/python.svg" width="96" height="48" alt="Python" style="align: centered"></code></a>
       <br><p style="align: centered">Python</p>
     </td>
+    <td align="center" width="96">
+      <a><code><img src="images/java.svg" width="96" height="48" alt="Java" style="align: centered"></code></a>
+      <br><p style="align: centered">Java</p>
+    </td>
+    <td align="center" width="96">
+      <a><code><img src="images/lua.svg" width="96" height="48" alt="LUA" style="align: centered"></code></a>
+      <br><p style="align: centered">LUA</p>
+    </td>
 
   </tr>
   <tr>
