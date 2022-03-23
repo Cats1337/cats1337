@@ -13,9 +13,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a><code>
-        <img src="images/python.svg" width="96" height="48" alt="Python">
-      </code></a>
+      <a><code><img src="images/python.svg" width="96" height="48" alt="Python"></code></a>
       <br>Python
     </td>
 
