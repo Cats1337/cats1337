@@ -13,9 +13,9 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <code><a href="#macropower-tech">
+      <code><a>
         <img src="images/python.svg" width="48" height="48" alt="Python">
-      </a></code>
+      </code></a>
       <br>Python
     </td>
 
