@@ -36,7 +36,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
 
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
+<code><img height="48" src="images/css3.svg"></code>
 
 <table align="center">
   <tr>
