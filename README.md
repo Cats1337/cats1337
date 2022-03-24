@@ -38,16 +38,16 @@
 <table align="center">
   <tr>
     <td align="center" width="48">
-      <a><img src="images/css3.svg" width="48" height="48" alt="CSS3" align= "center"></a>
-      <br><p align= "center"><code>CSS3</code></p>
+      <code><a><img src="images/css3.svg" width="48" height="48" alt="CSS3" align= "center"></a></code>
+      <br><p align= "center">CSS3</p>
     </td>
     <td align="center" width="48">
-      <a><img src="images/html-5.svg" width="48" height="48" alt="HTML" align= "center"></a>
-      <br><p align= "center"><code>HTML5</code></p>
+      <a><code><img src="images/html-5.svg" width="48" height="48" alt="HTML" align= "center"></code></a>
+      <br><p align= "center">HTML5</p>
     </td>
     <td align="center" width="48">
-      <a><img src="images/javascript.svg" width="48" height="48" alt="JavaScript" align= "center"></a>
-      <br><p align= "center"><code>JavaScript</code></p>
+      <a><code><img src="images/javascript.svg" width="48" height="48" alt="JavaScript" align= "center"></code></a>
+      <br><p align= "center">JavaScript</p>
     </td>
   </tr>
 </table>
