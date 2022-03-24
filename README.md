@@ -1,12 +1,3 @@
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-} 
-</style>
-
 <!--CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Cat Tippy Tappy" width="100">
@@ -19,7 +10,10 @@
 <img src="song.svg" align= "center">
 <img src="images/Cats1337.jpg" style="width: 48px; height: 48px">
 
-  <h1 style="text-align: center; color: #36BCF7FF">Proficient Languages</h1>
+  <h2 style="text-align: center; color: #36BCF7FF">Proficient Languages</h2>
+<!--LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
+
 <table align="center">
   <tr>
   <td align="center" width="48">
@@ -37,7 +31,10 @@
   </tr>
 </table>
 
-  <h1 style="text-align: center; color: #36a9dee5">Known Languages</h1>
+  <h2 style="text-align: center; color: #36a9dee5">Known Languages</h2>
+<!--LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+
 <table align="center">
   <tr>
     <td align="center" width="48">
@@ -55,7 +52,10 @@
   </tr>
 </table>
 
-  <h1 style="text-align: center; color: #3696c5cc">Tools</h1>
+  <h2 style="text-align: center; color: #3696c5cc">Tools</h2>
+<!--LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+
 <table align="center">
   <tr>
     <td align="center" width="48">
