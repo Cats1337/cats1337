@@ -5,15 +5,13 @@
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
-<img src="images/Cats1337.jpg" style="width: 16px; height: 16px; position: absolute; margin-top:14px; margin-left: 3px">
-
 <a href="Cats' GitHub Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cats1337&show_icons=true&theme=tokyonight&text_color=36BCF7FF&bg_color=deg,00050e,001B41&include_all_commits&count_private&hide_border=1"/>
 </a>
 
 
 <br>
-
+Visitor Count
 <a href="Visitor Count">
   <img align="center" src="https://profile-counter.glitch.me/cats1337/count.svg"/>
 </a>
@@ -21,9 +19,12 @@
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
+<img align="center" src="images/Cats1337.jpg" style="width: 128px">
+
 <img src="https://readme-typing-svg.herokuapp.com?duration=7500&center=true&multiline=true&width=350&height=60&lines=Cats;Coding%2C+Gaming%2C+Sleeping" alt="Typing" class= "center">
 
-  <h2 style="text-align: center; color: #36BCF7FF; margin-bottom: -5px">Proficient Languages</h2>
+<img align="center" src="images/proficient.png"  height="55px"> 
+
 
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
@@ -45,7 +46,7 @@
   </tr>
 </table>
 
-  <h2 style="text-align: center; color: #36a9dee5; margin-bottom: -5px">Known Languages</h2>
+<img align="center" src="images/known.png" height="55px"> 
 
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
@@ -67,7 +68,7 @@
   </tr>
 </table>
 
-  <h2 style="text-align: center; color: #3696c5cc; margin-bottom: -5px">Tools</h2>
+<img align="center" src="images/tools.png" height="55px"> 
 
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
