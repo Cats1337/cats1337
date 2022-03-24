@@ -23,6 +23,7 @@ Visitor Count
 
 <img src="https://readme-typing-svg.herokuapp.com?duration=7500&center=true&multiline=true&width=350&height=60&lines=Cats;Coding%2C+Gaming%2C+Sleeping" alt="Typing" class= "center">
 
+<p align="center">
 <img align="center" src="images/proficient.png"  height="55px"> 
 
 
@@ -46,6 +47,7 @@ Visitor Count
   </tr>
 </table>
 
+<p align="center">
 <img align="center" src="images/known.png" height="55px"> 
 
 <!--LINE-->
@@ -68,6 +70,7 @@ Visitor Count
   </tr>
 </table>
 
+<p align="center">
 <img align="center" src="images/tools.png" height="55px"> 
 
 <!--LINE-->
