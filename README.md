@@ -35,13 +35,11 @@
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
-
-<code><img height="48" src="images/css3.svg"></code>
-
 <table align="center">
   <tr>
     <td align="center" width="48">
-      <code><img src="images/css3.svg" width="48" height="48" alt="CSS3" align= "center"></code>
+      <code><img height="48" src="images/css3.svg"></code>
+      <!-- <code><img src="images/css3.svg" width="48" height="48" alt="CSS3" align= "center"></code> -->
       <br><p align= "center">CSS3</p>
     </td>
     <td align="center" width="48">
