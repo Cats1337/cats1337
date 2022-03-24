@@ -5,11 +5,11 @@
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
-<img src="images/Cats1337.jpg" style="width: 58px; height: 58px; position: absolute; margin-left: 282px; margin-top: 60px; border-radius: 420px">
-
 <a href="Cats' GitHub Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cats1337&show_icons=true&theme=tokyonight&text_color=36BCF7FF&bg_color=deg,00050e,001B41&include_all_commits&count_private"/>
 </a>
+<img src="images/Cats1337.jpg" style="width: 58px; height: 58px; position: absolute; margin-left: -112px; margin-top: 60px; border-radius: 420px">
+
 
 <br>
 
