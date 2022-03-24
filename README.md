@@ -1,3 +1,12 @@
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+} 
+</style>
+
 <!--CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Cat Tippy Tappy" width="100">
@@ -5,81 +14,57 @@
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
-<img src="https://readme-typing-svg.herokuapp.com?center=true&multiline=true&width=275&height=55&lines=Cats+;Coding%2C+Gaming%2C+Vibing" alt="Typing" style="align: centered">
+<img src="https://readme-typing-svg.herokuapp.com?duration=7500&center=true&multiline=true&width=350&height=60&lines=Cats;Coding%2C+Gaming%2C+Sleeping" alt="Typing" class= "center">
 
-<img src="song.svg" style ="align: centered">
+<img src="song.svg" align= "center">
 <img src="images/Cats1337.jpg" style="width: 48px; height: 48px">
 
-<table>
+<table align="center">
+  <h1 style="text-align: center; color: #36BCF7FF">Proficient Languages</h1>
   <tr>
-    <td align="center" width="96">
-      <a><code><img src="images/python.svg" width="96" height="48" alt="Python" style="align: centered"></code></a>
-      <br><p style="align: centered">Python</p>
+  <td align="center" width="48">
+      <a><code><img src="images/lua.svg" width="48" height="48" alt="LUA" align= "center"></code></a>
+      <br><p align= "center">LUA</p>
     </td>
-    <td align="center" width="96">
-      <a><code><img src="images/java.svg" width="96" height="48" alt="Java" style="align: centered"></code></a>
-      <br><p style="align: centered">Java</p>
+    <td align="center" width="48">
+      <a><code><img src="images/java.svg" width="48" height="48" alt="Java" align= "center"></code></a>
+      <br><p align= "center">Java</p>
     </td>
-    <td align="center" width="96">
-      <a><code><img src="images/lua.svg" width="96" height="48" alt="LUA" style="align: centered"></code></a>
-      <br><p style="align: centered">LUA</p>
+    <td align="center" width="48">
+      <a><code><img src="images/python.svg" width="48" height="48" alt="Python" align= "center"></code></a>
+      <br><p align= "center">Python</p>
     </td>
-
   </tr>
+</table>
+
+<table align="center">
+  <h1 style="text-align: center; color: #36a9dee5">Known Languages</h1>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
+    <td align="center" width="48">
+      <a><code><img src="images/css3.svg" width="48" height="48" alt="CSS3" align= "center"></code></a>
+      <br><p align= "center">CSS3</p>
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
+    <td align="center" width="48">
+      <a><code><img src="images/html-5.svg" width="48" height="48" alt="HTML" align= "center"></code></a>
+      <br><p align= "center">HTML5</p>
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
+    <td align="center" width="48">
+      <a><code><img src="images/javascript.svg" width="48" height="48" alt="JavaScript" align= "center"></code></a>
+      <br><p align= "center">JavaScript</p>
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
+  </tr>
+</table>
+
+<table align="center">
+  <h1 style="text-align: center; color: #3696c5cc">Tools</h1>
+  <tr>
+    <td align="center" width="48">
+      <a><code><img src="images/vsc.svg" width="48" height="48" alt="VSC" align= "center"></code></a>
+      <br><p align= "center">VSC</p>
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
+    <td align="center" width="48">
+      <a><code><img src="images/eclipse.svg" width="48" height="48" alt="Eclipse" align= "center"></code></a>
+      <br><p align= "center">Eclipse</p>
     </td>
   </tr>
 </table>
