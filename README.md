@@ -38,7 +38,7 @@
 <table align="center">
   <tr>
     <td align="center" width="48">
-      <code><a><img src="images/css3.svg" width="48" height="48" alt="CSS3" align= "center"></a></code>
+      <code><img src="images/css3.svg" width="48" height="48" alt="CSS3" align= "center"></code>
       <br><p align= "center">CSS3</p>
     </td>
     <td align="center" width="48">
