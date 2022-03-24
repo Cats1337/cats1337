@@ -5,12 +5,25 @@
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
-<img src="https://readme-typing-svg.herokuapp.com?duration=7500&center=true&multiline=true&width=350&height=60&lines=Cats;Coding%2C+Gaming%2C+Sleeping" alt="Typing" class= "center">
+<a href="Cats' GitHub Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cats1337&show_icons=true&theme=tokyonight&text_color=36BCF7FF&bg_color=deg,00050e,001B41&include_all_commits&count_private"/>
+</a>
 
-<img src="song.svg" align= "center">
+<br>
+
+<a href="Visitor Count">
+  <img align="center" src="https://profile-counter.glitch.me/cats1337/count.svg"/>
+</a>
+
 <img src="images/Cats1337.jpg" style="width: 48px; height: 48px">
 
-  <p style="text-align: center; color: #36BCF7FF; font-size: 1.25em; margin-bottom: -5px">Proficient Languages</p>
+<!--LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+
+<img src="https://readme-typing-svg.herokuapp.com?duration=7500&center=true&multiline=true&width=350&height=60&lines=Cats;Coding%2C+Gaming%2C+Sleeping" alt="Typing" class= "center">
+
+  <h2 style="text-align: center; color: #36BCF7FF; margin-bottom: -5px">Proficient Languages</h2>
+
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
 
@@ -31,7 +44,8 @@
   </tr>
 </table>
 
-  <p style="text-align: center; color: #36a9dee5; font-size: 1.25em; margin-bottom: -5px">Known Languages</p>
+  <h2 style="text-align: center; color: #36a9dee5; margin-bottom: -5px">Known Languages</h2>
+
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
@@ -52,7 +66,8 @@
   </tr>
 </table>
 
-  <p style="text-align: center; color: #3696c5cc; font-size: 1.25em; margin-bottom: -5px">Tools</p>
+  <h2 style="text-align: center; color: #3696c5cc; margin-bottom: -5px">Tools</h2>
+  
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
@@ -68,14 +83,3 @@
     </td>
   </tr>
 </table>
-
-<a href="Cats' GitHub Stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cats1337&show_icons=true&theme=tokyonight&text_color=36BCF7FF&bg_color=deg,00050e,001B41&include_all_commits&count_private"/>
-</a>
-
-<br>
-
-<a href="Visitor Count">
-  <img align="center" src="https://profile-counter.glitch.me/cats1337/count.svg"/>
-</a>
-
