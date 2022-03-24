@@ -9,9 +9,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cats1337&show_icons=true&theme=tokyonight&text_color=36BCF7FF&bg_color=deg,00050e,001B41&include_all_commits&count_private&hide_border=1"/>
 </a>
 
-
 <br>
-Visitor Count
+
 <a href="Visitor Count">
   <img align="center" src="https://profile-counter.glitch.me/cats1337/count.svg"/>
 </a>
@@ -19,9 +18,11 @@ Visitor Count
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
-<img align="center" src="images/Cats1337.jpg" style="width: 128px">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?duration=7500&center=true&multiline=true&width=350&height=60&lines=Cats;Coding%2C+Gaming%2C+Sleeping" alt="Typing">
 
-<img src="https://readme-typing-svg.herokuapp.com?duration=7500&center=true&multiline=true&width=350&height=60&lines=Cats;Coding%2C+Gaming%2C+Sleeping" alt="Typing" class= "center">
+<p align="center">
+<img src="images/Cats1337.jpg" style="width: 128px">
 
 <p align="center">
 <img align="center" src="images/proficient.png"  height="55px"> 
