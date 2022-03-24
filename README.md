@@ -39,15 +39,15 @@
   <tr>
     <td align="center" width="48">
       <a><img src="images/css3.svg" width="48" height="48" alt="CSS3" align= "center"></a>
-      <br><code><p align= "center">CSS3</code></p>
+      <br><p align= "center"><code>CSS3</code></p>
     </td>
     <td align="center" width="48">
-      <a><img src="images/html-5.svg" width="48" height="48" alt="HTML" align= "center"></code></a>
-      <br><code><p align= "center">HTML5</code></p>
+      <a><img src="images/html-5.svg" width="48" height="48" alt="HTML" align= "center"></a>
+      <br><p align= "center"><code>HTML5</code></p>
     </td>
     <td align="center" width="48">
       <a><img src="images/javascript.svg" width="48" height="48" alt="JavaScript" align= "center"></a>
-      <br><code><p align= "center">JavaScript</code></p>
+      <br><p align= "center"><code>JavaScript</code></p>
     </td>
   </tr>
 </table>
