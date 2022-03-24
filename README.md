@@ -73,6 +73,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cats1337&show_icons=true&theme=tokyonight&text_color=36BCF7FF&bg_color=deg,00050e,001B41&include_all_commits&count_private"/>
 </a>
 
+<br>
 
 <a href="Visitor Count">
   <img align="center" src="https://profile-counter.glitch.me/cats1337/count.svg"/>
