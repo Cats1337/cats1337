@@ -19,8 +19,8 @@
 <img src="song.svg" align= "center">
 <img src="images/Cats1337.jpg" style="width: 48px; height: 48px">
 
-<table align="center">
   <h1 style="text-align: center; color: #36BCF7FF">Proficient Languages</h1>
+<table align="center">
   <tr>
   <td align="center" width="48">
       <a><code><img src="images/lua.svg" width="48" height="48" alt="LUA" align= "center"></code></a>
@@ -37,8 +37,8 @@
   </tr>
 </table>
 
-<table align="center">
   <h1 style="text-align: center; color: #36a9dee5">Known Languages</h1>
+<table align="center">
   <tr>
     <td align="center" width="48">
       <a><code><img src="images/css3.svg" width="48" height="48" alt="CSS3" align= "center"></code></a>
@@ -55,8 +55,8 @@
   </tr>
 </table>
 
-<table align="center">
   <h1 style="text-align: center; color: #3696c5cc">Tools</h1>
+<table align="center">
   <tr>
     <td align="center" width="48">
       <a><code><img src="images/vsc.svg" width="48" height="48" alt="VSC" align= "center"></code></a>
