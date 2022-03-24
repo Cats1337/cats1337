@@ -35,6 +35,9 @@
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
+
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
+
 <table align="center">
   <tr>
     <td align="center" width="48">
