@@ -1,7 +1,7 @@
 <!--CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Cat Tippy Tappy" width="100">
-
+<br>
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
