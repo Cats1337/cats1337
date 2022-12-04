@@ -68,6 +68,10 @@
       <code><img height="32" src="images/javascript.svg" alt="JavaScript"></code>
       <br><p align= "center">JavaScript</p>
     </td>
+    <td align="center" width="48">
+      <code><img height="32" src="images/php.svg" alt="PHP"></code>
+      <br><p align= "center">PHP</p>
+    </td>
   </tr>
 </table>
 
