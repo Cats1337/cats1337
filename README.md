@@ -72,6 +72,10 @@
       <code><img height="32" src="images/php.svg" alt="PHP"></code>
       <br><p align= "center">PHP</p>
     </td>
+    <td align="center" width="48">
+      <code><img height="32" src="images/sql.svg" alt="PHP"></code>
+      <br><p align= "center">MySQL</p>
+    </td>
   </tr>
 </table>
 
