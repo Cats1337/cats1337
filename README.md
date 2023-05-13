@@ -45,21 +45,12 @@
       <code><img height="32" src="images/python.svg" alt="Python"></code>
       <br><p align= "center">Python</p>
     </td>
-  </tr>
-</table>
-
-<p align="center">
-<img align="center" src="images/known.png" height="55px"> 
-
-<!--LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
-
-<table align="center">
-  <tr>
     <td align="center" width="48">
       <code><img height="32" src="images/css3.svg" alt="CSS3"></code>
       <br><p align= "center">CSS3</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="48">
       <code><img height="32" src="images/html-5.svg" alt="HTML-5"></code>
       <br><p align= "center">HTML5</p>
@@ -75,6 +66,56 @@
     <td align="center" width="48">
       <code><img height="32" src="images/mysql.svg" alt="MySQL"></code>
       <br><p align= "center">MySQL</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+<img align="center" src="images/known.png" height="55px"> 
+
+<!--LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+
+<table align="center">
+  <tr>
+    <td align="center" width="48">
+      <code><img height="32" src="images/brainfk.svg" alt="BRAINF**K"></code>
+      <br><p align= "center">BRAINF**K</p>
+    </td>
+    <td align="center" width="48">
+      <code><img height="32" src="images/lolcode.svg" alt="LOLCODE"></code>
+      <br><p align= "center">LOLCODE</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+<img align="center" src="images/interested.png" height="55px"> 
+
+<!--LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+
+<table align="center">
+  <tr>
+    <td align="center" width="48">
+      <code><img height="32" src="images/c.svg" alt="C"></code>
+      <br><p align= "center">C</p>
+    </td>
+    <td align="center" width="48">
+      <code><img height="32" src="images/csharp.svg" alt="C#"></code>
+      <br><p align= "center">C#</p>
+    </td>
+    <td align="center" width="48">
+      <code><img height="32" src="images/cpp.svg" alt="C++"></code>
+      <br><p align= "center">C++</p>
+    </td>
+    <td align="center" width="48">
+      <code><img height="32" src="images/kotlin.svg" alt="Kotlin"></code>
+      <br><p align= "center">Kotlin</p>
+    </td>
+    <td align="center" width="48">
+      <code><img height="32" src="images/cobol.svg" alt="COBOL"></code>
+      <br><p align= "center">COBOL</p>
     </td>
   </tr>
 </table>
