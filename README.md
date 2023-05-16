@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Cat Tippy Tappy" width="100">
 <br>
 <!--LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+<img src="images/line.gif" height="20" width="100%"> 
 
 <a href="Cats' GitHub Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cats1337&show_icons=true&theme=tokyonight&text_color=36BCF7FF&bg_color=deg,00050e,001B41&include_all_commits&count_private&hide_border=1"/>
@@ -16,7 +16,7 @@
 </a>
 
 <!--LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+<img src="images/line.gif" height="20" width="100%"> 
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?duration=7500&center=true&multiline=true&width=350&height=60&lines=Cats;Coding%2C+Gaming%2C+Sleeping" alt="Typing">
@@ -29,7 +29,7 @@
 
 
 <!--LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
+<img src="images/line.gif" height="20" width="100%">  
 
 <table align="center">
   <tr>
@@ -74,7 +74,7 @@
 <img align="center" src="images/known.png" height="55px"> 
 
 <!--LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+<img src="images/line.gif" height="20" width="100%"> 
 
 <table align="center">
   <tr>
@@ -93,7 +93,7 @@
 <img align="center" src="images/interested.png" height="55px"> 
 
 <!--LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+<img src="images/line.gif" height="20" width="100%"> 
 
 <table align="center">
   <tr>
@@ -124,7 +124,7 @@
 <img align="center" src="images/tools.png" height="55px"> 
 
 <!--LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+<img src="images/line.gif" height="20" width="100%"> 
 
 <table align="center">
   <tr>
