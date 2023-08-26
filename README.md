@@ -140,4 +140,4 @@
 </table>
 
 <p align="center">
-Usually License <b><a href="https://www.tldrlegal.com/license/gnu-lesser-general-public-license-v2-1-lgpl-2-1">GNU Lesser General Public License v2.1</a></b> unless specified otherwise</p>
+Usually License <b><a href="https://www.tldrlegal.com/license/mit-license">MIT License</a></b> unless specified otherwise</p>
