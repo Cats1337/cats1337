@@ -86,6 +86,10 @@
       <code><img height="32" src="images/lolcode.svg" alt="LOLCODE"></code>
       <br><p align= "center">LOLCODE</p>
     </td>
+      <td align="center" width="48">
+      <code><img height="32" src="images/csharp.svg" alt="C#"></code>
+      <br><p align= "center">C#</p>
+    </td>
   </tr>
 </table>
 
@@ -100,10 +104,6 @@
     <td align="center" width="48">
       <code><img height="32" src="images/c.svg" alt="C"></code>
       <br><p align= "center">C</p>
-    </td>
-    <td align="center" width="48">
-      <code><img height="32" src="images/csharp.svg" alt="C#"></code>
-      <br><p align= "center">C#</p>
     </td>
     <td align="center" width="48">
       <code><img height="32" src="images/cpp.svg" alt="C++"></code>
