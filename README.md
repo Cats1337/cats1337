@@ -79,16 +79,16 @@
 <table align="center">
   <tr>
     <td align="center" width="48">
-      <code><img height="32" src="images/brainfk.svg" alt="BRAINF**K"></code>
-      <br><p align= "center">BRAINF**K</p>
+      <code><img height="32" src="images/csharp.svg" alt="C#"></code>
+      <br><p align= "center">C#</p>
+    </td>
+    <td align="center" width="48">
+      <code><img height="32" src="images/c.svg" alt="C"></code>
+      <br><p align= "center">C</p>
     </td>
     <td align="center" width="48">
       <code><img height="32" src="images/lolcode.svg" alt="LOLCODE"></code>
       <br><p align= "center">LOLCODE</p>
-    </td>
-      <td align="center" width="48">
-      <code><img height="32" src="images/csharp.svg" alt="C#"></code>
-      <br><p align= "center">C#</p>
     </td>
   </tr>
 </table>
@@ -101,10 +101,6 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="48">
-      <code><img height="32" src="images/c.svg" alt="C"></code>
-      <br><p align= "center">C</p>
-    </td>
     <td align="center" width="48">
       <code><img height="32" src="images/cpp.svg" alt="C++"></code>
       <br><p align= "center">C++</p>
