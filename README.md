@@ -3,10 +3,11 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Cat Tippy Tappy" width="100">
 <br>
 <!--LINE-->
-<img src="images/line.gif" height="20" width="100%"> 
-
-<a href="Cats' GitHub Stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cats1337&show_icons=true&theme=tokyonight&text_color=36BCF7FF&bg_color=deg,00050e,001B41&include_all_commits&count_private&hide_border=1"/>
+<img src="images/line.gif" height="20" width="100%"/> 
+  
+<!-- Link to https://cats1337.github.io/portfolio -->
+<a href="https://cats1337.github.io/portfolio" target="_blank">
+  <img align="center" src="images/portfolio.png"  height="55px"> 
 </a>
 
 <br>
