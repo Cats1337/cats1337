@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="Visitor Count" align="center" style="filter: drop-shadow(0 0 0.25rem black) hue-rotate(90deg);">
-    <img align="center" src="https://profile-counter.glitch.me/cats1337/count.svg"/>
+    <img align="center" src="https://profile-counter.glitch.me/cats1337/count.svg" target="#"/>
   </a>
 </div>
 
