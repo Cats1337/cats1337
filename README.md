@@ -34,5 +34,5 @@
 <br>
 
 <p align="center" style="text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black">
-Usually License <b><a href="https://www.tldrlegal.com/license/mit-license">MIT License</a></b> or <b><a href="https://www.tldrlegal.com/license/apache-license-2-0-apache-2-0">Apache License</a></b>
- unless specified otherwise</p>
+Usually License <b><a href="https://www.tldrlegal.com/license/gnu-general-public-license-v2">GNU General Public License v2.0</a></b> or <b><a href="https://www.tldrlegal.com/license/mit-license">MIT License</a></b>
+ unless specified otherwise</p><p align="center" style="text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black"><i>Exceptions can be made if contacted</i></p>
