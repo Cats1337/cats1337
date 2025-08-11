@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="Visitor Count" align="center" style="filter: drop-shadow(0 0 0.25rem black) hue-rotate(90deg);">
-    <img align="center" src="https://profile-counter.glitch.me/cats1337/count.svg" target="#"/>
+    <img align="center" src="https://counter.kuber.studio/Cats1337/hacker/count.svg" target="#"/>
   </a>
 </div>
 
@@ -31,7 +31,7 @@
   <img src="https://avatars.githubusercontent.com/u/42129397?v=4" style="width: 128px">
 </div>
 
-<br>
+<br>![Hidden Counter](https://komarev.com/ghpvc/?username=cats1337&style=pixel)
 
 <p align="center" style="text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black">
 Usually License <b><a href="https://www.tldrlegal.com/license/gnu-general-public-license-v2">GNU General Public License v2.0</a></b> or <b><a href="https://www.tldrlegal.com/license/mit-license">MIT License</a></b>
