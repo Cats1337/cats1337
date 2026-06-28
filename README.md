@@ -34,5 +34,6 @@
 <br>![Hidden Counter](https://komarev.com/ghpvc/?username=cats1337&style=pixel)
 
 <p align="center" style="text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black">
-Usually License <b><a href="https://www.tldrlegal.com/license/gnu-general-public-license-v2">GNU General Public License v2.0</a></b> or <b><a href="https://www.tldrlegal.com/license/mit-license">MIT License</a></b>
- unless specified otherwise</p><p align="center" style="text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black"><i>Exceptions can be made if contacted</i></p>
+Usually licensed under <b><a href="https://www.tldrlegal.com/license/apache-license-2-0-apache-2-0">Apache License 2.0</a></b> or <b><a href="https://www.tldrlegal.com/license/gnu-affero-general-public-license-v3-agpl-3-0">GNU Affero General Public License v3.0 (AGPL-3.0)</a></b>, unless specified otherwise.
+
+</p><p align="center" style="text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black"><i>Alternative licensing arrangements may be available upon request.</i></p>
